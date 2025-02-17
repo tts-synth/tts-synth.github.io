@@ -1,0 +1,10 @@
+Rating      ::: Natural : 	3.5	4	3.5	4	4.5
+Rating      ::: System1 : 	4	4	3.5	2.5	3.5
+Rating      ::: System2 : 	4	3.5	4.5	4	3.5
+
+Average Score  ::: Natural : 	3.9
+Average Score  ::: System1 : 	3.5
+Average Score  ::: System2 : 	3.9
+
+DMOS Score  ::: System1 : 	4.487179487179487
+DMOS Score  ::: System2 : 	5
